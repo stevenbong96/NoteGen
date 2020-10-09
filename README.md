@@ -11,12 +11,12 @@ The objective of this application is to ease the user in taking notes for their 
 
 ## Installation 
 This application requires few installation to made, which are the express and path. Both are really crucial due to the attachment of this generator to back-end things to make them easier to build. To install both packages, the steps will be explained by screenshot listed as below:
-![Steps Installation](./steps.JPG) 
+![Steps Installation](./Images/steps.JPG) 
   
 ## Usage 
 If there is any confusion in using this application, then users can utitlize the video on this repository. This generator has a very straight forward UX/UI design, so it should be easy to use for variety users. However, the full video on showing how to use this team proile generator will be shown below:
   
-![Example Instructions](./demo.gif)
+![Example Instructions](./Images/demo.gif)
   
 ## Contributions
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
@@ -34,7 +34,7 @@ To use the badges, feel free to check [shields.io](https://shields.io/) website 
 ## Test Instruction 
 Proof of application works using terminal 
 
-![Test Results](./test.JPG)
+![Test Results](./Images/test.JPG)
 
 ## License 
   
@@ -42,4 +42,4 @@ MIT License
 
 ## Application Screenshot
 
-![Screenshot](./screenshot.JPG)
+![Screenshot](./Images/screenshot.JPG)
