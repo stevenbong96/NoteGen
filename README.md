@@ -32,9 +32,9 @@ Language Contributions
 To use the badges, feel free to check [shields.io](https://shields.io/) website for variety of badges
 
 ## Test Instruction 
-Proof of test result of this application 
+Proof of application works using terminal 
 
-![Test Results](./.JPG)
+![Test Results](./test.JPG)
 
 ## License 
   
