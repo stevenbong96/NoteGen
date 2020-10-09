@@ -14,7 +14,7 @@ This application requires few installation to made, which are the express and pa
 ![Steps Installation](./Images/steps.JPG) 
   
 ## Usage 
-If there is any confusion in using this application, then users can utitlize the video on this repository. This generator has a very straight forward UX/UI design, so it should be easy to use for variety users. However, the full video on showing how to use this team proile generator will be shown below:
+If there is any confusion in using this application, then users can utitlize the video on this repository. This generator has a very straight forward UX/UI design, so it should be easy to use for variety users. With that, the full video on showing how to use this team proile generator will be shown below:
   
 ![Example Instructions](./Images/demo.gif)
   
